@@ -41,7 +41,7 @@ Yes, the chart highlights specific periods with higher incidences of rolled-back
 
 ### 3. What is the distribution of release results (Success, Pending, Bugs Fixed - Deployed, Rolled Back, Canceled) over the specified period?
 
-![alt text](Tabs/image1.png)
+![alt text](Tabs/image-1.png)
 
 #### Explanation
 The distribution of release results over the specified period is as follows:
